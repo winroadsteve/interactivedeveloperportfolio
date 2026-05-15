@@ -31,9 +31,9 @@
     <div class="footer-card bg-dark/5 dark:bg-white/5 border border-dark/10 dark:border-white/10 p-8 rounded-[2rem] flex flex-col justify-between">
       <span class="text-xs font-mono uppercase tracking-widest text-muted">Socials</span>
       <div class="flex flex-col gap-4 mt-8">
-        <a href="#" class="text-lg font-medium hover:text-accent transition-colors">LinkedIn</a>
-        <a href="#" class="text-lg font-medium hover:text-accent transition-colors">GitHub</a>
-        <a href="#" class="text-lg font-medium hover:text-accent transition-colors">Twitter</a>
+        <a href="https://www.linkedin.com/in/emmyhfitness/" class="text-lg font-medium hover:text-accent transition-colors">LinkedIn</a>
+        <a href="https://github.com/winroadsteve" class="text-lg font-medium hover:text-accent transition-colors">GitHub</a>
+        <a href="https://x.com/stevewinroad" class="text-lg font-medium hover:text-accent transition-colors">Twitter</a>
       </div>
     </div>
 
